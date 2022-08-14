@@ -1,0 +1,20 @@
+# Cloudflare DNS' IP can be changed to any Cloudflare's CDN IP
+104.16.249.249 	cloudflare-dns.com
+104.16.249.249 	mozilla.cloudflare-dns.com
+
+8.8.8.8 	dns.google
+8.8.8.8 	dns.google.com
+
+9.9.9.9 	dns.quad9.net
+#149.112.112.112	dns.quad9.net
+
+9.9.9.10 	dns10.quad9.net
+#149.112.112.10	dns.quad9.net
+
+45.91.92.121 	doh-ch.blahdns.com
+
+172.67.154.200 	basic.rethinkdns.com
+
+116.202.176.26 	doh.libredns.gr
+
+94.140.15.15 	dns.adguard-dns.com
