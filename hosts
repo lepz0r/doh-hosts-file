@@ -1,24 +1,73 @@
-# Cloudflare DNS' IP can be changed to any Cloudflare's CDN IP
+#aaflalo.me
+168.235.81.167 dns-nyc.aaflalo.me
+
+#Adguard DNS
+94.140.15.15 	dns.adguard-dns.com
+94.140.15.15 	dns.adguard.com
+94.140.15.16 	dns-family.adguard.com
+94.140.14.140 	unfiltered.adguard-dns.com
+
+#AhaDNS
+5.2.75.75 	doh.nl.ahadns.net
+45.79.120.233 	doh.in.ahadns.net
+45.67.219.208	doh.la.ahadns.net
+185.213.26.187	doh.ny.ahadns.net
+45.132.75.16	doh.pl.ahadns.net
+45.132.74.167	doh.es.ahadns.net
+185.175.56.133	doh.es.ahadns.net
+104.26.3.137 	blitz.ahadns.com
+
+#Alibaba Public DNS
+223.6.6.6 	dns.alidns.com
+
+#Andrews & Arnold
+217.169.20.23 	dns.aa.net.uk
+
+#alekberg
+89.38.131.38 	dnsnl.alekberg.net
+89.38.131.38 	dnsse.alekberg.net
+
+#Artikel10
+45.151.167.2 	dns.artikel10.org
+
+#Association 42l
+45.155.171.163 	doh.42l.fr
+
+#BebasDNS
+47.254.192.66 	dns.bebasid.com
+
+#BlahDNS
+45.91.92.121 	doh-ch.blahdns.com
+192.53.175.149	doh-sg.blahdns.com
+95.216.212.177	doh-fi.blahdns.com
+139.162.112.47	doh-jp.blahdns.com
+78.46.244.143	doh-de.blahdns.com
+
+#Blokada DNS
+193.180.80.1 	dns.blokada.org
+
+#Charter
+24.240.146.7 	doh-01.spectrum.com
+24.240.146.8	doh-02.spectrum.com
+
+#CIRA Canadian Shield
+149.112.121.10 	private.canadianshield.cira.ca
+
+#Cisco (OpenDNS)
+146.112.41.2 	doh.opendns.com
+146.112.41.3 	doh.familyshield.opendns.com 
+
+#CleanBrowsing
+185.228.168.168 doh.cleanbrowsing.org
+
+# Cloudflare 
 104.16.249.249 	cloudflare-dns.com
 104.16.249.249 	mozilla.cloudflare-dns.com
 104.16.132.229 	dns.cloudflare.com
 104.17.198.37 	every1dns.net
 1.1.1.1 	one.one.one.one
-
 1.1.1.2 	security.cloudflare-dns.com.
 1.1.1.3 	security.cloudflare-dns.com.
-
-#Google DNS
-8.8.8.8 	dns.google
-8.8.8.8 	dns.google.com
-
-#Quad9 DNS
-9.9.9.9 	dns.quad9.net
-#149.112.112.112	dns.quad9.net
-
-#Quad9 unsecured DNS
-9.9.9.10 	dns10.quad9.net
-#149.112.112.10	dns.quad9.net
 
 #ControlD
 76.76.2.11 	freedns.controld.com
@@ -29,13 +78,22 @@
 76.76.2.11 	family.controld.com
 76.76.2.11 	uncensored.controld.com
 
+#Google DNS
+8.8.8.8 	dns.google
+8.8.8.8 	dns.google.com
+
 #NextDNS
 45.90.28.0 	anycast.dns.nextdns.io
+
+#Quad9 DNS
+9.9.9.9 	dns.quad9.net
+#149.112.112.112	dns.quad9.net
+9.9.9.10 	dns10.quad9.net
+#149.112.112.10	dns.quad9.net
 
 172.67.154.200 	basic.rethinkdns.com
 
 116.202.176.26 	doh.libredns.gr
 
-94.140.15.15 	dns.adguard-dns.com
 
 45.91.92.121 	doh-ch.blahdns.com
