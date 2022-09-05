@@ -111,9 +111,46 @@
 #dnswarden
 213.188.216.109 dns.dnswarden.com
 
+#edgyDNS
+103.179.56.192 	edgy-dns.com
+
+#FAELIX
+185.134.196.54 	rdns.faelix.net
+
+#ffmuc.net
+185.150.99.255 doh.ffmuc.net.
+
+#Foundation for Applied Privacy
+146.255.56.98 	doh.applied-privacy.net
+
+#FutaDNS
+104.16.0.132 	doh.futa.gg
+
 #Google DNS
 8.8.8.8 	dns.google
 8.8.8.8 	dns.google.com
+
+#hitian.me
+139.162.27.97 	hitian.me
+
+#Hostux.net
+46.226.108.173 	dns.hostux.net
+
+#Hurricane Electric
+74.82.42.42 	ordns.he.net
+
+#Internet Initiative Japan
+103.2.57.5 	public.dns.iij.jp
+
+#Infotek
+103.129.223.190 doh.infotek.net.id
+
+#Tiarap
+172.104.93.80 	jp.tiar.app
+172.67.173.59 	jp.tiarap.org
+174.138.29.175 	doh.tiar.app
+172.67.173.59 	doh.tiarap.org
+
 
 #NextDNS
 45.90.28.0 	anycast.dns.nextdns.io
