@@ -145,6 +145,46 @@
 #Infotek
 103.129.223.190 doh.infotek.net.id
 
+#Lars Lehmn
+185.230.160.78 	dns.lars-lehmann.net
+
+#LavaDNS
+79.110.170.43 	us1.dns.lavate.ch
+95.217.25.217	eu1.dns.lavate.ch
+
+#LibreDNS
+116.202.176.26 	doh.libredns.gr
+
+#Mullvad
+193.19.108.2 	doh.mullvad.net
+194.242.2.3	adblock.doh.mullvad.net
+
+#NextDNS
+103.62.48.147 	dns.nextdns.io
+45.90.28.0 	anycast.dns.nextdns.io
+
+#PaesaDNS
+104.21.32.35 	dns.paesa.es
+
+#Plan9-dns
+207.246.87.96 	kronos.plan9-dns.com
+149.28.101.119 	pluton.plan9-dns.com
+216.238.80.219 	helios.plan9-dns.com
+
+#PureDNS
+146.190.6.140 	puredns.org
+
+#Quad9 DNS
+9.9.9.9 	dns.quad9.net
+#149.112.112.112	dns.quad9.net
+9.9.9.10 	dns10.quad9.net
+#149.112.112.10	dns10.quad9.net
+9.9.9.11	dns11.quad9.net
+#149.112.112.11 dns11.quad9.net
+
+#Qihoo 360
+101.198.192.33 	doh.360.cn
+
 #Tiarap
 172.104.93.80 	jp.tiar.app
 172.67.173.59 	jp.tiarap.org
@@ -152,15 +192,6 @@
 172.67.173.59 	doh.tiarap.org
 
 
-#NextDNS
-45.90.28.0 	anycast.dns.nextdns.io
 
-#Quad9 DNS
-9.9.9.9 	dns.quad9.net
-#149.112.112.112	dns.quad9.net
-9.9.9.10 	dns10.quad9.net
-#149.112.112.10	dns.quad9.net
 
 172.67.154.200 	basic.rethinkdns.com
-
-116.202.176.26 	doh.libredns.gr
