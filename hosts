@@ -60,7 +60,7 @@
 #CleanBrowsing
 185.228.168.168 doh.cleanbrowsing.org
 
-# Cloudflare 
+#Cloudflare 
 104.16.249.249 	cloudflare-dns.com
 104.16.249.249 	mozilla.cloudflare-dns.com
 104.16.132.229 	dns.cloudflare.com
@@ -77,6 +77,9 @@
 76.76.2.11 	p3.controld.com
 76.76.2.11 	family.controld.com
 76.76.2.11 	uncensored.controld.com
+
+#crypto.sx
+172.67.134.157 	doh.crypto.sx
 
 #CZ.NIC
 193.17.47.1 	odvr.nic.cz
@@ -159,9 +162,15 @@
 193.19.108.2 	doh.mullvad.net
 194.242.2.3	adblock.doh.mullvad.net
 
+#mydns.network
+172.65.25.255 	freedom.mydns.network
+
 #NextDNS
 103.62.48.147 	dns.nextdns.io
 45.90.28.0 	anycast.dns.nextdns.io
+
+#null31
+129.159.57.203 	ibuki.cgnat.net
 
 #PaesaDNS
 104.21.32.35 	dns.paesa.es
@@ -185,13 +194,41 @@
 #Qihoo 360
 101.198.192.33 	doh.360.cn
 
+#Restena
+158.64.1.29 	kaitain.restena.lu
+
+#RethinkDNS
+104.21.10.13 	basic.rethinkdns.com
+104.21.10.13 	rethinkdns.com
+
+#Rezhajul
+52.76.16.182 	doh.rezhajul.io
+
+#Rubyfish.cn
+175.24.154.66 	dns.rubyfish.cn
+
+#seby.io 
+45.76.113.31 	doh.seby.io
+139.99.222.72 	doh-2.seby.io
+
+#Snopyta
+95.216.229.153 	fi.doh.dns.snopyta.org
+
+#SWITCH
+130.59.31.251 	dns.switch.ch
+
 #Tiarap
 172.104.93.80 	jp.tiar.app
 172.67.173.59 	jp.tiarap.org
 174.138.29.175 	doh.tiar.app
 172.67.173.59 	doh.tiarap.org
 
+#TWNIC
+101.101.101.101 dns.twnic.tw
 
+#Usable Privacy
+78.47.163.141 	adfree.usableprivacy.net
 
-
-172.67.154.200 	basic.rethinkdns.com
+#WeDNS
+143.244.33.74 	dns.wevpn.com
+143.244.33.90 	dns-weblock.wevpn.com
